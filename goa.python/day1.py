@@ -1,0 +1,10 @@
+print("salami")
+name =("omari")
+surname = ("focxoraia")
+height = ("171cm")
+age = ("16 years old")
+
+print(name)
+print(surname)
+print(age)
+print(height)
